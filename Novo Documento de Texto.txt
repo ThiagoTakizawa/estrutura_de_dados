@@ -1,0 +1,9 @@
+A principal diferença entre ArrayList e o List é que o primeiro é FORTEMENTE TIPADO.
+
+-----------
+
+Atividade:
+Crie um novo projeto para um programa que armazene em uma lista informações sobre livros com nome, editora, autor e número de páginas.
+Preencha está lista com no mínimo 5 livros e ao final percorra essa lista e imprima as informações do livro com o maior número de páginas
+
+Utilizando o conceito de Pilha (Stack<>) com os métodos Pop() e Push (), escreva um programa que leia uma entrada do usuário e identifique se a palavra informada é ou não um PALÍNDROMO
