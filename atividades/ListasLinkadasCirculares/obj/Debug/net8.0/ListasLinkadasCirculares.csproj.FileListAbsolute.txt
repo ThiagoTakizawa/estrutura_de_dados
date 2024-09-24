@@ -1,0 +1,14 @@
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadasCirculares\bin\Debug\net8.0\ListasLinkadasCirculares.exe
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadasCirculares\bin\Debug\net8.0\ListasLinkadasCirculares.deps.json
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadasCirculares\bin\Debug\net8.0\ListasLinkadasCirculares.runtimeconfig.json
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadasCirculares\bin\Debug\net8.0\ListasLinkadasCirculares.dll
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadasCirculares\bin\Debug\net8.0\ListasLinkadasCirculares.pdb
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadasCirculares\obj\Debug\net8.0\ListasLinkadasCirculares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadasCirculares\obj\Debug\net8.0\ListasLinkadasCirculares.AssemblyInfoInputs.cache
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadasCirculares\obj\Debug\net8.0\ListasLinkadasCirculares.AssemblyInfo.cs
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadasCirculares\obj\Debug\net8.0\ListasLinkadasCirculares.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadasCirculares\obj\Debug\net8.0\ListasLinkadasCirculares.dll
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadasCirculares\obj\Debug\net8.0\refint\ListasLinkadasCirculares.dll
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadasCirculares\obj\Debug\net8.0\ListasLinkadasCirculares.pdb
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadasCirculares\obj\Debug\net8.0\ListasLinkadasCirculares.genruntimeconfig.cache
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadasCirculares\obj\Debug\net8.0\ref\ListasLinkadasCirculares.dll

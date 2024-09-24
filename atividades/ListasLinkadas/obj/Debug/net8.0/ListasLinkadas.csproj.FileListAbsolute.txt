@@ -1,0 +1,14 @@
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadas\bin\Debug\net8.0\ListasLinkadas.exe
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadas\bin\Debug\net8.0\ListasLinkadas.deps.json
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadas\bin\Debug\net8.0\ListasLinkadas.runtimeconfig.json
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadas\bin\Debug\net8.0\ListasLinkadas.dll
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadas\bin\Debug\net8.0\ListasLinkadas.pdb
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadas\obj\Debug\net8.0\ListasLinkadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadas\obj\Debug\net8.0\ListasLinkadas.AssemblyInfoInputs.cache
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadas\obj\Debug\net8.0\ListasLinkadas.AssemblyInfo.cs
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadas\obj\Debug\net8.0\ListasLinkadas.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadas\obj\Debug\net8.0\ListasLinkadas.dll
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadas\obj\Debug\net8.0\refint\ListasLinkadas.dll
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadas\obj\Debug\net8.0\ListasLinkadas.pdb
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadas\obj\Debug\net8.0\ListasLinkadas.genruntimeconfig.cache
+C:\Users\thiag\Downloads\estrutura_de_dados-main\estrutura_de_dados-main\atividades\ListasLinkadas\obj\Debug\net8.0\ref\ListasLinkadas.dll
